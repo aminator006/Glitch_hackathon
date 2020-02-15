@@ -1,7 +1,6 @@
 package view;
 
 import model.SQLiteConnector;
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
